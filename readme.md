@@ -29,7 +29,7 @@ Terminal (Android & Windows)
   pkg install pip
 ```
 ```bash
-  git clone https://github.com/waroengin/smshub
+  git clone https://github.com/MunksCode/smshub
 ```
 ```bash
   cd smshub
@@ -38,7 +38,7 @@ Terminal (Android & Windows)
   pip install -r requirements.txt
 ```
 ```bash
-  python main.py
+  python munks.py
 ```
 ## Authors & License
 
