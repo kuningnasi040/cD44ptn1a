@@ -43,4 +43,5 @@ Terminal (Android & Windows)
 ## Authors & License
 
 - [@MuhRifq](https://www.t.me/muhrifq)
+- [@munkstore](https://www.t.me/munkstore)
 
