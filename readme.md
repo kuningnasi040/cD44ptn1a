@@ -29,16 +29,16 @@ Terminal (Android & Windows)
   pkg install pip
 ```
 ```bash
-  git clone https://github.com/MunksCode/smshub
+  git clone https://github.com/kuningnasi040/testingdulu
 ```
 ```bash
-  cd smshub
+  cd testingdulu
 ```
 ```bash
   pip install -r requirements.txt
 ```
 ```bash
-  python munks.py
+  python smshub.py
 ```
 ## Authors & License
 
