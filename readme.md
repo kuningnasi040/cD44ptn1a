@@ -40,8 +40,4 @@ Terminal (Android & Windows)
 ```bash
   python smshub.py
 ```
-## Authors & License
-
-- [@MuhRifq](https://www.t.me/muhrifq)
-- [@munkstore](https://www.t.me/munkstore)
 
