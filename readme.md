@@ -29,10 +29,10 @@ Terminal (Android & Windows)
   pkg install pip
 ```
 ```bash
-  git clone https://github.com/kuningnasi040/testingdulu
+  git clone https://github.com/kuningnasi040/cD44ptn1a
 ```
 ```bash
-  cd testingdulu
+  cd cD44ptn1a
 ```
 ```bash
   pip install -r requirements.txt
