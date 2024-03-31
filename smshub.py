@@ -49,7 +49,7 @@ def buka_file_services_py():
 
 def buka_file_gmail_py():
     try:
-        subprocess.run(["python", "gmail.py"])
+        subprocess.run(["python", "jmail.py"])
     except Exception as e:
         print(f"Error: {e}")
 
