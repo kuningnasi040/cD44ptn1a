@@ -12,7 +12,7 @@ init(autoreset=True)
 # Fungsi untuk membaca API key dari file key.txt
 def read_api_key():
     try:
-        with open("key.txt", "r") as key_file:
+        with open("masmas.txt", "r") as key_file:
             return key_file.read().strip()
     except FileNotFoundError:
         print("File key.txt tidak ditemukan.")
